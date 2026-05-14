@@ -1,4 +1,4 @@
 
 function tech1(){
-    console.log("java");
+    console.log("c sharp");
 }
