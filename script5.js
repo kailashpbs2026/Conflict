@@ -1,1 +1,1 @@
-let age = 24;
+let userAge = 24;
