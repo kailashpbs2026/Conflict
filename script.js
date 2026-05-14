@@ -1,3 +1,3 @@
-function login() {
-    console.log("logged in");
+function auth() {
+    console.log("authenticated");
 }
