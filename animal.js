@@ -1,1 +1,1 @@
-let animal = "cat";
+let animal = "tiger";
