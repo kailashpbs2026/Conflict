@@ -1,1 +1,1 @@
-let initial="A-main";
+let initial="B-branch1";
